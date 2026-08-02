@@ -13,6 +13,9 @@ Initial public release.
 - Strict trust rules to avoid invented certifications, fabricated customer cases, and unsupported company facts.
 - Modular references for SEO preservation, CMS-safe work, schema, `llms.txt`, UI guardrails, and post-remodel checks.
 - Helper scripts for site input detection, HTML signal extraction, basic remodel checks, `llms.txt` generation, and conservative JSON-LD generation.
+- Bilingual README with a stronger first-screen positioning statement.
+- Architecture workflow diagram and SVG cover image.
+- Before/after demo for a fictional B2B website section.
 
 ### 新增
 
@@ -21,3 +24,6 @@ Initial public release.
 - 严格信任规则，避免编造证书、客户案例和无支撑的企业事实。
 - 模块化参考文件，覆盖 SEO 保留、CMS 安全模式、Schema、`llms.txt`、UI 保护和改造后检查。
 - 辅助脚本，用于站点输入识别、HTML 信号提取、基础改造检查、`llms.txt` 生成和保守 JSON-LD 生成。
+- 中英双语 README，并强化首屏定位表达。
+- 架构流程图和 SVG 封面图。
+- 虚构 B2B 网站栏目的 Before/After Demo。

@@ -1,0 +1,27 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">b2b-ai-website-remodel</title>
+  <desc id="desc">A cover image for a Codex skill that remodels B2B websites into AI-readable, trust-oriented business knowledge sources.</desc>
+  <rect width="1200" height="630" fill="#071A1A"/>
+  <rect x="56" y="56" width="1088" height="518" rx="28" fill="#0B2424" stroke="#2DD4BF" stroke-opacity="0.35"/>
+  <circle cx="1000" cy="144" r="76" fill="#2DD4BF" fill-opacity="0.14"/>
+  <circle cx="1060" cy="224" r="118" fill="#F59E0B" fill-opacity="0.10"/>
+  <path d="M109 447C224 344 317 332 442 390C558 444 674 458 785 374C870 310 940 284 1086 315" stroke="#2DD4BF" stroke-opacity="0.25" stroke-width="3"/>
+  <text x="104" y="145" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="0.04em">CODEX SKILL</text>
+  <text x="104" y="229" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="66" font-weight="800">b2b-ai-website-remodel</text>
+  <text x="108" y="292" fill="#BFEFE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="500">AI-powered B2B website remodeling framework</text>
+  <text x="108" y="338" fill="#BFEFE7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="500">for readability, trust signals, and buyer decisions</text>
+  <g transform="translate(108 404)">
+    <rect width="170" height="54" rx="14" fill="#123A3A" stroke="#2DD4BF" stroke-opacity="0.45"/>
+    <text x="24" y="35" fill="#E6FFFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Entity</text>
+    <path d="M190 27H246" stroke="#5EEAD4" stroke-width="3"/>
+    <rect x="266" width="170" height="54" rx="14" fill="#123A3A" stroke="#2DD4BF" stroke-opacity="0.45"/>
+    <text x="290" y="35" fill="#E6FFFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Facts</text>
+    <path d="M456 27H512" stroke="#5EEAD4" stroke-width="3"/>
+    <rect x="532" width="170" height="54" rx="14" fill="#123A3A" stroke="#2DD4BF" stroke-opacity="0.45"/>
+    <text x="556" y="35" fill="#E6FFFA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Trust</text>
+    <path d="M722 27H778" stroke="#5EEAD4" stroke-width="3"/>
+    <rect x="798" width="182" height="54" rx="14" fill="#2DD4BF"/>
+    <text x="822" y="35" fill="#052E2B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800">AI Readable</text>
+  </g>
+  <text x="104" y="526" fill="#8DDDD4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22">Turn broad marketing pages into evidence-aware business knowledge sources.</text>
+</svg>

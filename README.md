@@ -2,6 +2,14 @@
 
 中文 | [English](#english)
 
+![b2b-ai-website-remodel cover](assets/cover.svg)
+
+**AI-powered B2B website remodeling framework for improving AI readability, trust signals, and buyer decision information.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-0f766e.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-v0.1.0-0f766e.svg)](VERSION)
+[![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827.svg)](skills/b2b-ai-website-remodel/SKILL.md)
+
 `b2b-ai-website-remodel` 是一个 Codex Skill，用于把 B2B 企业网站从普通营销页面，改造成 AI 可理解、信任导向、买家决策友好、证据意识明确的业务知识源。
 
 它不是通用 SEO 工具。它重点检查 AI 系统和严肃 B2B 买家是否能理解：
@@ -24,6 +32,25 @@
 - FAQ 与语义内容规划
 - 保守的 Schema 与 `llms.txt` 建议
 - 在保留原网站架构前提下进行安全的前端或 CMS 改造
+
+## 工作流
+
+```mermaid
+flowchart TD
+    A[Existing B2B Website] --> B[Website Understanding]
+    B --> C[Entity Analysis]
+    C --> D[Product Facts]
+    D --> E[Trust Signals]
+    E --> F[Evidence Gaps]
+    F --> G[Buyer Decision Path]
+    G --> H[GEO / AI Readability Plan]
+    H --> I[Safe Website Implementation]
+```
+
+## Demo
+
+- [Before / After Demo](examples/before-after-demo.md)
+- [Example Audit Output](examples/audit-report-example.md)
 
 ## 核心理念
 
@@ -156,6 +183,14 @@ MIT License. See [LICENSE](LICENSE).
 
 ## English
 
+![b2b-ai-website-remodel cover](assets/cover.svg)
+
+**AI-powered B2B website remodeling framework for improving AI readability, trust signals, and buyer decision information.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-0f766e.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-v0.1.0-0f766e.svg)](VERSION)
+[![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827.svg)](skills/b2b-ai-website-remodel/SKILL.md)
+
 `b2b-ai-website-remodel` is a Codex skill for transforming B2B company websites from simple marketing pages into AI-readable, trust-oriented, buyer-decision-friendly, evidence-aware business knowledge sources.
 
 It is not a generic SEO tool. It focuses on whether AI systems and serious B2B buyers can understand:
@@ -178,6 +213,25 @@ It is not a generic SEO tool. It focuses on whether AI systems and serious B2B b
 - FAQ and semantic content planning
 - Conservative schema and `llms.txt` recommendations
 - Safe frontend or CMS implementation while preserving the existing website architecture
+
+## Workflow
+
+```mermaid
+flowchart TD
+    A[Existing B2B Website] --> B[Website Understanding]
+    B --> C[Entity Analysis]
+    C --> D[Product Facts]
+    D --> E[Trust Signals]
+    E --> F[Evidence Gaps]
+    F --> G[Buyer Decision Path]
+    G --> H[GEO / AI Readability Plan]
+    H --> I[Safe Website Implementation]
+```
+
+## Demo
+
+- [Before / After Demo](examples/before-after-demo.md)
+- [Example Audit Output](examples/audit-report-example.md)
 
 ## Philosophy
 
