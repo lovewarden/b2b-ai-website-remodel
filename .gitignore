@@ -1,0 +1,24 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Logs and temp files
+*.log
+tmp/
+temp/
+
+# Private local materials
+.env
+.env.*
+private/
+secrets/
+customer-materials/

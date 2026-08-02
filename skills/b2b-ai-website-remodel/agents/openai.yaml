@@ -1,0 +1,5 @@
+interface:
+  display_name: "b2b-ai-website-remodel"
+  short_description: "Audit B2B sites for AI trust and buyer clarity."
+  brand_color: "#0F766E"
+  default_prompt: "Use $b2b-ai-website-remodel to audit this B2B company website and produce an AI Trust assessment with evidence gaps and an implementation plan."
